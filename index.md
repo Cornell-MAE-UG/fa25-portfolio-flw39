@@ -10,4 +10,4 @@ title: Frederick Wentzien
  
 My name is Frederick Wentzien, and I am a mechanical engineering major at Cornell. 
 
- Take a look at <a href="{{ '/assets/ResumeF.pdf' | relative_url }}" download>CV</a>.
+ Take a look at <a href="/fa25-portfolio-flw39/assets/ResumeF.pdf" download>Download My Resume</a>
