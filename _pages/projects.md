@@ -3,7 +3,7 @@ layout: default
 title: Frederick Wentzien - Portfolio
 permalink: /projects/
 ---
-[Torque Wrench]({{ "/assets/TorqueWrench.pdf" | relative_url}})<br>
+[Torque Wrench]({{ "/assets/TorqueWrench.pdf" | relative_url}})  
 
 [System Dynamics of a Heart]({{ "/assets/MAE3260Final.pdf" | relative_url}})
 
