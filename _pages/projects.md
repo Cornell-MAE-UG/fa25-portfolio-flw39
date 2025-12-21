@@ -8,6 +8,10 @@ permalink: /projects/
 
 [System Dynamics of a Heart]({{ "/assets/MAE3260Final.pdf" | relative_url}})
 
+
+[Fluid Mechanical Dissection]({{ "/assets/Mechanical_Dissection.pdf" | relative_url}})
+
+
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
