@@ -14,7 +14,7 @@ permalink: /projects/
 
 [Heat Transfer Reflection]({{ "/assets/HeatTransfer.pdf" | relative_url}})
 
-[Heat Transfer Reflection](/heat-transfer-reflection/)
+[Heat Transfer Reflection]({{ "/heat-transfer-reflection/" | relative_url}})
 
 <div class="gallery-container">
 <div class="project-gallery">
