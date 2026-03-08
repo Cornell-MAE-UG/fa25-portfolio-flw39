@@ -7,7 +7,7 @@ permalink: /heat-transfer-reflection/
 # Heat Transfer Reflection
 
 <iframe 
-src="/assets/HeatTransfer.pdf" 
+src="/assets/HeatTransfer.pdf" | relative_url
 width="100%" 
 height="1200px">
 </iframe>
