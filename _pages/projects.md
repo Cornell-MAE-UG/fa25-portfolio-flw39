@@ -14,6 +14,8 @@ permalink: /projects/
 
 [Heat Transfer Reflection]({{ "/assets/HeatTransfer.pdf" | relative_url}})
 
+<embed src="{{ '/assets/files/resume.pdf' | relative_url }}" type="application/pdf" width="100%" height="800px">
+
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
