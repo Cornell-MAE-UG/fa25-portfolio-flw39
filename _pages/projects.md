@@ -12,6 +12,8 @@ permalink: /projects/
 [Fluid Mechanical Dissection]({{ "/assets/Mechanical_Dissection.pdf" | relative_url}})
 
 
+[Heat Transfer Reflection]({{ "/assets/HeatTransfer.pdf" | relative_url}})
+
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
