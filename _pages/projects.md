@@ -14,7 +14,7 @@ permalink: /projects/
 
 [Heat Transfer Reflection]({{ "/heat-transfer-reflection/" | relative_url}})
 
-[Mechatronics Final Project]({{"/robotics_comp/" | relative_url}})
+[Mechatronics Final Project]({{ "/robotics-comp/" | relative_url}})
 
 <div class="gallery-container">
 <div class="project-gallery">

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mechatronics Robotics Competition
-permalink: /robotics_comp/
+permalink: /robotics-comp/
 ---
 
 # Mechatronics Final Report
